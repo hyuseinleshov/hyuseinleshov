@@ -3,7 +3,7 @@
 
 I'm a passionate and aspiring software developer currently studying at SoftUni. 🎓 I'm enthusiastic about learning and exploring the world of programming, with a focus on Java. My goal is to become a skilled developer and contribute to the exciting realm of technology.
 
-- 🌱 I’m currently learning I’m currently learning Object-Oriented Programming Concepts 
+- 🌱 I’m currently learning Object-Oriented Programming Concepts 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiuseinlesho&show_icons=true)  
 
