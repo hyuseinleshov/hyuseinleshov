@@ -5,8 +5,6 @@ I'm a passionate and aspiring software developer currently studying at SoftUni. 
 
 - 🌱 I’m currently learning Object-Oriented Programming Concepts 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiuseinlesho&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hiuseinlesho)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hiusein-lesho-944640291/)  
