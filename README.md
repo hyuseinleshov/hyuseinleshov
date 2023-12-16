@@ -7,5 +7,5 @@ I'm a passionate and aspiring software developer currently studying at SoftUni. 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hyuseinlesho)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hiusein-lesho-944640291/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hyusein-lesho-944640291/)  
 
