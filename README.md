@@ -1,4 +1,4 @@
-### Hi there 👋, Hiusein Lesho
+### Hi there 👋, Hiusein
 #### Java Web Development
 
 I'm a passionate and aspiring software developer currently studying at SoftUni. 🎓 I'm enthusiastic about learning and exploring the world of programming, with a focus on Java. My goal is to become a skilled developer and contribute to the exciting realm of technology.
