@@ -1,9 +1,16 @@
-### Hi there 👋, Hyusein
-#### Java Web Development
+## Hello there! 👋
 
-I'm a passionate and aspiring software developer currently studying at SoftUni. 🎓 I'm enthusiastic about learning and exploring the world of programming, with a focus on Java. My goal is to become a skilled developer and contribute to the exciting realm of technology.
+I'm Hyusein, a passionate student at SoftUni, currently immersed in the exciting world of Java Web Development. This is where I showcase my journey, projects, and the skills I'm create along the way.
 
-- 🌱 I’m currently learning Object-Oriented Programming Concepts 
+### 🚀 About Me
+
+I am a dedicated learner with a keen interest in web development, particularly in Java technologies. Mainly get my knowledge from softuni, but I'm constantly seeking new challenges to enhance my skills and knowledge.
+
+### 🔧 Technologies & Tools
+
+- Java
+- Spring Framework
+- HTML, CSS, JavaScript
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hyuseinlesho)  
 
