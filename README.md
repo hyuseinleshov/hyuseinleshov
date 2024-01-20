@@ -6,7 +6,7 @@ I'm Hyusein, a passionate student at SoftUni, currently immersed in the exciting
 
 I am a dedicated learner with a keen interest in web development, particularly in Java technologies. Mainly get my knowledge from softuni, but I'm constantly seeking new challenges to enhance my skills and knowledge.
 
-### 🔧 Technologies & Tools
+### 🔧 Technologies
 
 - Java
 - Spring Framework
