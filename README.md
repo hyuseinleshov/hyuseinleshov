@@ -10,8 +10,8 @@ I am a dedicated learner with a keen interest in web development, particularly i
 
 - Java
 - Spring Framework
-- HTML, CSS, JavaScript Front-End
-- MySQL, Spring Data
+- HTML, CSS, JavaScript
+- MySQL
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hyuseinlesho)  
 
