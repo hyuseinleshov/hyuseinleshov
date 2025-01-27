@@ -1,8 +1,14 @@
 # </> Hyusein Leshov
 
-**`Software Developer (Student/Learner/Creator)`**
+**`Digital Craftsman (Developer/Student/Creator)`**
 
-I am a Software Development student with a deep interest in building dynamic and scalable web applications. My goal is to leverage Java’s powerful capabilities to create solutions that are both innovative and effective. From backend development with Spring Boot to designing interactive front-end experiences, I am dedicated to mastering the full-stack. Join me on my journey as I explore new technologies, share my projects, and contribute to open-source communities on my GitHub and [LinkedIn](https://www.linkedin.com/in/hyuseinleshov/) profiles.
+I am a **Software Development student** with a deep interest in building **dynamic** and **scalable web applications**. My goal is to leverage **Java's powerful capabilities** to create solutions that are both **innovative** and **effective**. From **backend development** with **Spring Boot** to designing **interactive front-end experiences**, I am dedicated to mastering the **full-stack**.
+
+I thrive on solving challenging problems, exploring **cutting-edge technologies**, and contributing to **open-source communities**. Join me on my journey as I share my projects, learn, and grow as a developer.
+
+📫 **Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/hyuseinleshov/)
+- Email: hyusein.leshov@gmail.com
 
 ---
 
