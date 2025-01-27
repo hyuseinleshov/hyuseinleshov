@@ -32,3 +32,5 @@ I thrive on solving challenging problems, exploring **cutting-edge technologies*
 ### 📊 Stats
 
 ![Hyusein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuseinleshov&show_icons=true&theme=gruvbox)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hyuseinleshov)](https://git.io/streak-stats)
