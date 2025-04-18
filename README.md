@@ -6,10 +6,11 @@ I am a **Software Development student** with a deep interest in building **dynam
 
 I am driven by solving challenging problems, exploring **cutting-edge technologies**, and contributing to **open-source communities**. Join me on my journey as I share my projects, learn, and grow as a developer.
 
-📫 **Connect with me:**
+### 📫 **Connect with me:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyuseinleshov/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyusein.leshov@gmail.com)
+
+📧 hyusein.leshov@gmail.com
 
 ---
 
