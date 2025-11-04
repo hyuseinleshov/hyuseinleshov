@@ -10,7 +10,7 @@ I love exploring **emerging technologies**, tackling **challenging problems**, a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyuseinleshov/)
 
-📧 hyusein.leshov@gmail.com
+✉ [hyusein.leshov@gmail.com](mailto:hyusein.leshov@gmail.com)
 
 ---
 
