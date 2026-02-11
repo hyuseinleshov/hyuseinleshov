@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Student/Creator)`**
 
-I’m a **Software Engineering student** passionate about building **dynamic, scalable, and user-focused applications**. My goal is to create **innovative** and **impactful solutions** through clean, maintainable, and efficient code. From designing **robust backend systems** to crafting **interactive front-end experiences**.
+I’m a **Software Engineer** passionate about building **dynamic, scalable, and user-focused applications**. My goal is to create **innovative** and **impactful solutions** through clean, maintainable, and efficient code. From designing **robust backend systems** to crafting **interactive front-end experiences**.
 
 I love exploring **emerging technologies**, tackling **challenging problems**, and contributing to **open-source communities**. Driven by curiosity and continuous learning, I’m constantly improving my craft and sharing what I build along the way.
 
