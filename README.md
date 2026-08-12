@@ -25,11 +25,3 @@ I love exploring **emerging technologies**, tackling **challenging problems**, a
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <br />
-
-#
-
-### 📊 Stats
-
-![Hyusein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyuseinleshov&show_icons=true&theme=gruvbox&hide=stars)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyuseinleshov&layout=compact&theme=gruvbox)](https://github.com/hyuseinleshov/github-readme-stats)
